@@ -1,0 +1,18 @@
+Laboratorio 4 - CSS Grid
+
+
+Paso 1. Analisis de CSS
+
+1. Selector nav a:
+Afecta a todos los enlaces que se encuentran dentro de la barra de navegacion. Permite modificar caracteristicas como el color, los margenes y la decoracion de los enlaces.
+
+2. Selector nav, a:
+Afecta a todos los elementos nav y a todos los elementos a del documento HTML, sin importar si los enlaces se encuentran dentro o fuera de la barra de navegacion.
+
+3. Selector .l, .o, .v, .e, .r:
+Aplica las mismas propiedades CSS a los elementos que tengan cualquiera de estas clases. En este laboratorio permite establecer caracteristicas comunes para los bloques que contienen las letras.
+
+4. Propiedad filter:
+Permite aplicar efectos visuales a los elementos, como modificar su brillo, contraste, saturacion o invertir sus colores. En el laboratorio, brightness(0) e invert(1) permiten mostrar los iconos de navegacion en color blanco.
+
+En las fotografias se utiliza brightness para ajustar la iluminacion, contrast para mejorar la diferencia entre tonos claros y oscuros, y saturate para modificar la intensidad de los colores.
